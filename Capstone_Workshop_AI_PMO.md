@@ -1,4 +1,4 @@
-# Día 4 — Capstone Workshop Avanzado  
+# Capstone Workshop Avanzado  
 ## Diseño de una capacidad de IA para una PMO inteligente
 
 **Curso:** AI for Project Management II  
