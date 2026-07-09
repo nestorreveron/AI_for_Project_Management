@@ -1,5 +1,5 @@
 
-# Día 4 — Capstone Workshop Avanzado  
+# Capstone Workshop Avanzado  
 ## Implementación gobernada de Enterprise AI Platforms para PMO
 
 **Curso:** AI for Project Management II  
